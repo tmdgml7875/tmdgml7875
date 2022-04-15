@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+I'm blockchain developer working for future-dignity.
 <!--
 **tmdgml7875/tmdgml7875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
